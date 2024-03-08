@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .header-container {
     display: flex;
     flex-wrap: wrap;
@@ -6,7 +11,8 @@
 
 .header-logo {
     font-size: 20px;
-    color: white;
+    color: #f9faf8;
+    font-size: 24px;
 }
 
 .header-links {
@@ -17,10 +23,17 @@
     list-style-type: none;
 }
 
+a {
+    color: #e5e7eb;
+    font-size: 18px;
+    text-decoration: none;
+}
+
 .awesome-container {
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 40px;
 }
 
 .container-top {
