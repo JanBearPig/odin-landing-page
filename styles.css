@@ -7,7 +7,7 @@ body {
 .container-top {
     background-color: #1f2937;
     display: flex;
-    flex-flow: column wrap;
+    flex-direction: column;
 }
 
 .header-container {
