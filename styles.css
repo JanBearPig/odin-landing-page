@@ -63,3 +63,11 @@ a {
     color: #e5e7eb;
     margin: 10px 0px;
 }
+
+.sign-upCTA {
+    background-color: #3882f6;
+    padding: 10px 30px;
+    color: #f9faf8;
+    font-weight: bold;
+    font-size: 15px;
+}
