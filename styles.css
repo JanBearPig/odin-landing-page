@@ -8,6 +8,8 @@ body {
     background-color: #1f2937;
     display: flex;
     flex-direction: column;
+    padding-left: 175px;
+    padding-right: 175px;
 }
 
 .header-container {
@@ -15,7 +17,7 @@ body {
     flex-wrap: wrap;
     height: 72px;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .header-logo {
