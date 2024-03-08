@@ -8,7 +8,7 @@ body {
     flex-wrap: wrap;
     height: 72px;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .header-logo {
@@ -36,6 +36,19 @@ a {
     align-items: center;
     justify-content: center;
     gap: 40px;
+}
+
+.text-container h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+    margin: 0;
+}
+
+.text-container p {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin: 10px 0px;
 }
 
 .container-top {
