@@ -82,12 +82,20 @@ a {
     align-items: center;
 }
 
+.container-middle h1 {
+    font-size: 36px;
+    color: #1f2937;
+    padding-top: 30px;
+    font-weight: 800;
+}
+
 .text-images-wrapper {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
     gap: 70px;
+    padding-bottom: 90px;
 }
 
 .text-images {
