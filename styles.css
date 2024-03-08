@@ -75,3 +75,8 @@ a {
     font-weight: bold;
     font-size: 15px;
 }
+
+.text-images img {
+    width: 200px;
+    height: 200px;
+}
