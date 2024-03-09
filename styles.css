@@ -113,3 +113,16 @@ a {
     width: 200px;
     height: 200px;
 }
+
+.container-quote {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 300;
+    color: #1f2937;
+}
