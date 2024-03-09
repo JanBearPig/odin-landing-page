@@ -74,6 +74,7 @@ a {
     color: #f9faf8;
     font-weight: bold;
     font-size: 15px;
+    border: none;
 }
 
 .container-middle {
@@ -136,4 +137,43 @@ a {
     color: #1f2937;
     font-style: italic;
     margin: 0;
+}
+
+.container-cta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.cta-wrapper {
+    background-color: #3882f6;
+    padding: 40px 100px;
+    display: flex;
+    gap: 100px;
+    align-items: center;
+}
+
+.text-containerCTA {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.text-containerCTA p {
+    margin: 0;
+}
+
+.cta-bold {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.sign-upCTA-2 {
+    padding: 7px 35px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border-color: #e5e7eb;
+    border-style: solid;
 }
