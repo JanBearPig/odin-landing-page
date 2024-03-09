@@ -118,11 +118,22 @@ a {
     background-color: #e5e7eb;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
+    padding: 200px;
+}
+
+.thor {
+    font-weight: bold;
+    font-size: 28px;
+    align-self: flex-end;
+    margin: 10px 0 0 0;
 }
 
 .quote {
     font-size: 36px;
     font-weight: 300;
     color: #1f2937;
+    font-style: italic;
+    margin: 0;
 }
