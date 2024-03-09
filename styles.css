@@ -73,8 +73,9 @@ a {
     padding: 10px 30px;
     color: #f9faf8;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 18px;
     border: none;
+    border-radius: 10px;
 }
 
 .container-middle {
@@ -174,8 +175,8 @@ a {
     font-weight: bold;
     background-color: #3882f6;
     color: #e5e7eb;
-    border-color: #e5e7eb;
-    border-style: solid;
+    border-radius: 10px;
+    border: 2px solid #e5e7eb;
 }
 
 .footer {
